@@ -1,4 +1,4 @@
-Họ và tên: Phạm Nguyễn Khánh Minh
-Email cá nhân đăng ký với chương trình: phamnguyenkhanhminh1502@gmail.com
-Github user name: pham-ng
-Discord User name: Phạm Nguyễn Khánh Minh 02040
+* **Họ và tên:** Phạm Nguyễn Khánh Minh
+* **Email cá nhân:** phamnguyenkhanhminh1502@gmail.com
+* **GitHub username:** pham-ng
+* **Discord username:** Phạm Nguyễn Khánh Minh 02040
